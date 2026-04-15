@@ -1,0 +1,1 @@
+the sensor gives a voltage based on temperature and arduino reads this using an analog pin, convert the voltage into degree and each reading is saved in a list array. Then arduino take a new reading every few seconds, keeps updating the array with new values. After it shows current temperature, previous temperaures on LCD or Serial Monitor.
